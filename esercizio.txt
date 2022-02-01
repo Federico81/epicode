@@ -1,0 +1,5 @@
+L'esercizio prevede la modifica del file lavorato durante l'esercitazione finale della settimana 1.
+Al file "onepage.html" andranno applicate delle mediaqueries in modo da fruire agevolmente dei contenuti anche a dispositivi superiori a 480px.
+Il risultato finale da raggiungere sarà a piacere del corsista, tenendo a mente regole basilari di usabilità e cercando in ogni caso di non far ingrandire al 100% del viewport tutti gli elementi testuali.
+
+Si dovrà inoltre inserire nel CSS una media query per la stampa, in modo da ottenere un risultato simile al file "stampa.pdf" allegato.
